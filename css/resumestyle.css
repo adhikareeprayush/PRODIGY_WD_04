@@ -1,0 +1,30 @@
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.head h1{
+    
+    font-size: 50px;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Mogata', sans-serif;
+    letter-spacing: 2px;
+    margin-top: 40px;
+    padding: 0;
+}
+
+.head p{
+    font-size: 20px;
+    color: #fff;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-family: 'Mogata', sans-serif;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 0;
+}
